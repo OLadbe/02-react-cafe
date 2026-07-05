@@ -1,6 +1,6 @@
 // src/components/VoteStats.tsx
-import css from "../styles/VoteStats.module.css";
-import type { Votes } from "../types/votes";
+import css from "./VoteStats.module.css";
+import type { Votes } from "../../types/votes";
 
 export interface VoteStatsProps {
   votes: Votes;

@@ -1,5 +1,5 @@
 // src/components/Notification.tsx
-import css from "../styles/Notification.module.css";
+import css from "./Notification.module.css";
 
 export default function Notification() {
   return (
